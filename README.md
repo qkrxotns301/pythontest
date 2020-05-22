@@ -11,7 +11,7 @@
 - python에 대한 기본적인 지식을 알고 있음
 - django framework에 대한 기본적인 지식을 알고 있음
 - current version : django == 1.11.28
-- IAM User를 소유하고 있어서 콘솔에 접근 가능한 상태
+- IAM User를 소하고 있어서 콘솔에 접근 가능한 상태
 -
 
 
