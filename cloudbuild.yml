@@ -1,0 +1,6 @@
+steps:
+  - name: string
+    args: ['pip3', 'install', '-r', 'requirements.txt/common.txt']
+
+  - name: string
+    args: ['python3', 'managed.py', ‘test’]
